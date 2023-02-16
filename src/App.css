@@ -11,10 +11,11 @@
   background-color: #f5f5f5;
   border-radius: 10px;
   display: flex;
+  flex-direction: column;
+  height: 320px;
   justify-content: center;
   margin: 30px 20px;
   width: 320px;
-  height: 320px;
 }
 
 .diceContainer {
@@ -23,4 +24,17 @@
   gap: 1rem;
   justify-content: space-between;
   padding: 35px 30px;
+}
+
+.rollBtn {
+  background-color: #5035ff;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 3.2px 7.68px rgba(0, 0, 0, 0.18);
+  color: white;
+  cursor: pointer;
+  font-family: "Karla", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 10px 30px;
 }
