@@ -2,7 +2,7 @@
   background-color: #0b2434;
   display: flex;
   height: 380px;
-  margin: 10% auto;
+  margin: 8% auto;
   width: 360px;
 }
 
@@ -18,12 +18,29 @@
   width: 320px;
 }
 
+.gameContainer__title {
+  color: #2B283A;
+  font-size: 1.5rem;
+  letter-spacing: -0.03em;
+}
+
+.gameContainer__instructions {
+  color: #4A4E74;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  line-height: 1rem;
+  text-align: center;
+  width: 250px;
+}
+
 .diceContainer {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
   justify-content: space-between;
-  padding: 35px 30px;
+  padding: 25px 30px;
 }
 
 .rollBtn {
