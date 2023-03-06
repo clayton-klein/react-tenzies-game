@@ -1,3 +1,8 @@
+**Status: finalizado.**
+<br>
+<br>
+<br>
+
 # React Tenzies Game
 
 Este foi o último projeto desenvolvido através do curso **React Course - Beginner's Tutorial for React JavaScript Library [2022]**
