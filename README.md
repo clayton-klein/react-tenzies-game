@@ -15,4 +15,5 @@ https://www.figma.com/file/FqsxRUhAaXM4ezddQK0CdR/Tenzies?node-id=0%3A1&t=G6p6IK
 
 ## Resultado:
 
-![screenshot da página do projeto](./tenzies-game-screenshot.jpeg)
+![screenshot da tela inicial](./tenzies-game-screenshot.jpeg)
+![screenshot da página de vitória](./tenzies-game-won-screenshot.jpeg)
